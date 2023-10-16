@@ -1,0 +1,34 @@
+GitHub Repositories Links For Javascript Learning
+--------------------------------------------------------
+
+You-Dont-Know-JS
+github.com/geltify/You-Dont-Know-JS
+This is a series of books diving deep into the core mechanisms of the JavaScript language.
+
+javascript-algorithms
+github.com/trekhleb/javascript-algorithms
+This repository contains JavaScript based examples of many popular algorithms and data structures.
+
+clean-code-javascript
+github.com/ryanmcdermott/clean-code-javascript
+Clean Code concepts adapted for javascript. Find the best code snippets here.
+
+javascript-questions
+github.com/lydiahallie/javascript-questions
+In this repo you find a long list of advanced javascript questions.
+  
+wtfjs
+github.com/denysdovhan/wtfjs
+List of funny and tricky Javascript Examples. Learn Code with example.
+
+ES6-for-humans
+github.com/metagrover/ES6-for-humans
+Kickstarter guide to writing ES6. Check out for Es6 best practices!
+
+nodebestpractices
+github.com/goldbergyoni/nodebestpractices
+This repository is a summary and curation of the top-ranked content on Node.js best practices.
+
+33-js-concepts
+github.com/leonardomso/33-js-concepts
+It's a collection of articles and books on the 33 JavaScript Concepts which every JavaScript Developer should know.
